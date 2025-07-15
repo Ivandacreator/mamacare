@@ -1,0 +1,87 @@
+
+{
+  "app": {
+    "title": "MamaCare",
+    "welcome": "欢迎来到 MamaCare",
+    "description": "您值得信赖的母婴健康伴侣"
+  },
+  "nav": {
+    "home": "首页",
+    "profile": "个人资料",
+    "appointments": "预约",
+    "healthTips": "健康小贴士",
+    "chat": "与助产士聊天",
+    "aiSupport": "AI 支持",
+    "notifications": "通知",
+    "logout": "退出登录",
+    "language": "语言"
+  },
+  "auth": {
+    "login": "登录",
+    "email": "邮箱",
+    "password": "密码",
+    "loginButton": "登录",
+    "welcome": "欢迎回来",
+    "subtitle": "登录以访问您的母婴健康仪表板"
+  },
+  "home": {
+    "features": "功能",
+    "profileCard": "管理您的个人资料和健康信息",
+    "appointmentsCard": "安排和管理您的预约",
+    "tipsCard": "获取专家健康和营养建议",
+    "chatCard": "与认证助产士联系",
+    "aiCard": "获得AI驱动的孕期支持",
+    "notificationsCard": "及时了解重要提醒"
+  },
+  "profile": {
+    "title": "我的资料",
+    "name": "全名",
+    "email": "邮箱地址",
+    "phone": "电话号码",
+    "dueDate": "预产期",
+    "healthStatus": "健康状态",
+    "edit": "编辑资料",
+    "save": "保存更改"
+  },
+  "appointments": {
+    "title": "我的预约",
+    "upcoming": "即将到来的预约",
+    "book": "预约新的时间",
+    "date": "日期",
+    "time": "时间",
+    "doctor": "医疗保健提供者",
+    "type": "预约类型",
+    "bookButton": "预约",
+    "noAppointments": "没有即将到来的预约"
+  },
+  "tips": {
+    "title": "健康小贴士",
+    "pregnancy": "孕期小贴士",
+    "nutrition": "营养建议",
+    "exercise": "安全运动",
+    "mental": "心理健康"
+  },
+  "chat": {
+    "title": "与助产士聊天",
+    "online": "在线助产士",
+    "placeholder": "输入您的消息...",
+    "send": "发送",
+    "connecting": "正在连接可用的助产士..."
+  },
+  "ai": {
+    "title": "AI 孕期支持",
+    "subtitle": "向我询问关于您孕期旅程的任何问题",
+    "placeholder": "询问您关于怀孕、健康或营养的问题...",
+    "send": "询问 AI",
+    "thinking": "AI 正在思考...",
+    "sampleQuestions": "示例问题：",
+    "q1": "怀孕期间应该避免哪些食物？",
+    "q2": "正常的体重增长是多少？",
+    "q3": "孕妇可以做哪些安全的运动？"
+  },
+  "notifications": {
+    "title": "通知",
+    "markAllRead": "全部标记为已读",
+    "noNotifications": "目前没有通知"
+  }
+}

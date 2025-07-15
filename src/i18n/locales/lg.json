@@ -1,0 +1,87 @@
+
+{
+  "app": {
+    "title": "MamaCare",
+    "welcome": "Tusanyuse MamaCare",
+    "description": "Omukwano gwo ogwesigwa mu bulamu bwa maama"
+  },
+  "nav": {
+    "home": "Awaka",
+    "profile": "Endabika",
+    "appointments": "Enkuŋŋaana",
+    "healthTips": "Amagezi g'obulamu",
+    "chat": "Yogera ne Mulerwa",
+    "aiSupport": "Obuyambi bwa AI",
+    "notifications": "Obubaka",
+    "logout": "Fuluma",
+    "language": "Olulimi"
+  },
+  "auth": {
+    "login": "Yingira",
+    "email": "Email",
+    "password": "Ekigambo eky'okuyingira",
+    "loginButton": "Yingira",
+    "welcome": "Tusanyuse Okukomawo",
+    "subtitle": "Yingira okufuna omutindo gw'obulamu bwa maama"
+  },
+  "home": {
+    "features": "Ebintu",
+    "profileCard": "Kuŋŋaanya endabika yo n'amawulire g'obulamu bwo",
+    "appointmentsCard": "Teeka n'okukuŋŋaanya enkuŋŋaana zo",
+    "tipsCard": "Funa amagezi g'omukugu ag'obulamu n'emmere",
+    "chatCard": "Yungibwa n'abalerwa abateeseddwa",
+    "aiCard": "Funa obuyambi bw'okuzaala obukozesezza AI",
+    "notificationsCard": "Beera ng'omanyi ebijukizo ebikulu"
+  },
+  "profile": {
+    "title": "Endabika Yange",
+    "name": "Erinnya Lyonna",
+    "email": "Endagiriro ya Email",
+    "phone": "Namba ya Simu",
+    "dueDate": "Olunaku lw'okuzaala",
+    "healthStatus": "Embeera y'obulamu",
+    "edit": "Kyuusa Endabika",
+    "save": "Tereka Enkyukakyuka"
+  },
+  "appointments": {
+    "title": "Enkuŋŋaana Zange",
+    "upcoming": "Enkuŋŋaana Ezijja",
+    "book": "Teeka Enkuŋŋaana Empya",
+    "date": "Olunaku",
+    "time": "Obudde",
+    "doctor": "Omuwa Obujjanjabi",
+    "type": "Ekika ky'Enkuŋŋaana",
+    "bookButton": "Teeka Enkuŋŋaana",
+    "noAppointments": "Tewali nkuŋŋaana zijja"
+  },
+  "tips": {
+    "title": "Amagezi g'Obulamu",
+    "pregnancy": "Amagezi g'Okubaawo",
+    "nutrition": "Amagezi g'Emmere",
+    "exercise": "Ddukanya Eteesigwa",
+    "mental": "Obulamu bw'Obweeme"
+  },
+  "chat": {
+    "title": "Yogera ne Mulerwa",
+    "online": "Abalerwa Abali ku Mukutu",
+    "placeholder": "Wandiika obubaka bwo...",
+    "send": "Sindika",
+    "connecting": "Tuyunguza mulerwa aliwo..."
+  },
+  "ai": {
+    "title": "Obuyambi bwa AI bw'Okubaawo",
+    "subtitle": "Mbuuza ekintu kyonna ku lugendo lwo olw'okubaawo",
+    "placeholder": "Buuza ekibuuzo kyo ku kubaawo, obulamu, oba emmere...",
+    "send": "Buuza AI",
+    "thinking": "AI erirowoozo...",
+    "sampleQuestions": "Ebibuuzo by'Ekyokulabirako:",
+    "q1": "Mmere ki gye nnina okwewala ng'oli lubuto?",
+    "q2": "Kweyongera kw'obuzito bwa buliwa bwe butuufu?",
+    "q3": "Ddukanya ki eziteesigwa abakazi abalina embuto?"
+  },
+  "notifications": {
+    "title": "Obubaka",
+    "markAllRead": "Teeka Byonna nga Bisomeddwa",
+    "noNotifications": "Tewali bubaka kati"
+  }
+}

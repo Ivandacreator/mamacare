@@ -1,0 +1,87 @@
+
+{
+  "app": {
+    "title": "MamaCare",
+    "welcome": "Karibu MamaCare",
+    "description": "Mwenzako wa kuaminika kwa afya ya mama"
+  },
+  "nav": {
+    "home": "Nyumbani",
+    "profile": "Wasifu",
+    "appointments": "Miadi",
+    "healthTips": "Ushauri wa Afya",
+    "chat": "Mazungumzo na Mkunga",
+    "aiSupport": "Msaada wa AI",
+    "notifications": "Arifa",
+    "logout": "Ondoka",
+    "language": "Lugha"
+  },
+  "auth": {
+    "login": "Ingia",
+    "email": "Barua pepe",
+    "password": "Nywila",
+    "loginButton": "Ingia",
+    "welcome": "Karibu Tena",
+    "subtitle": "Ingia kupata dashibodi yako ya afya ya mama"
+  },
+  "home": {
+    "features": "Huduma",
+    "profileCard": "Simamia wasifu na maelezo ya afya yako",
+    "appointmentsCard": "Panga na simamia miadi yako",
+    "tipsCard": "Pata ushauri wa kitaalamu wa afya na lishe",
+    "chatCard": "Unganisha na wakunga wa cheti",
+    "aiCard": "Pata msaada wa ujauzito unaotumia AI",
+    "notificationsCard": "Baki umejulishwa na vikumbusho muhimu"
+  },
+  "profile": {
+    "title": "Wasifu Wangu",
+    "name": "Jina Kamili",
+    "email": "Anwani ya Barua pepe",
+    "phone": "Nambari ya Simu",
+    "dueDate": "Tarehe ya Kuzaa",
+    "healthStatus": "Hali ya Afya",
+    "edit": "Hariri Wasifu",
+    "save": "Hifadhi Mabadiliko"
+  },
+  "appointments": {
+    "title": "Miadi Yangu",
+    "upcoming": "Miadi Ijayo",
+    "book": "Weka Muadi Mpya",
+    "date": "Tarehe",
+    "time": "Muda",
+    "doctor": "Mtoa Huduma za Afya",
+    "type": "Aina ya Muadi",
+    "bookButton": "Weka Muadi",
+    "noAppointments": "Hakuna miadi ijayo"
+  },
+  "tips": {
+    "title": "Ushauri wa Afya",
+    "pregnancy": "Ushauri wa Ujauzito",
+    "nutrition": "Ushauri wa Lishe",
+    "exercise": "Mazoezi Salama",
+    "mental": "Afya ya Akili"
+  },
+  "chat": {
+    "title": "Mazungumzo na Mkunga",
+    "online": "Wakunga Waliopo Mtandaoni",
+    "placeholder": "Andika ujumbe wako...",
+    "send": "Tuma",
+    "connecting": "Kuunganisha na mkunga aliyepatikana..."
+  },
+  "ai": {
+    "title": "Msaada wa AI wa Ujauzito",
+    "subtitle": "Niulize chochote kuhusu safari yako ya ujauzito",
+    "placeholder": "Uliza swali lako kuhusu ujauzito, afya, au lishe...",
+    "send": "Uliza AI",
+    "thinking": "AI inafikiria...",
+    "sampleQuestions": "Maswali ya Mfano:",
+    "q1": "Ni vyakula gani ninapaswa kuepuka wakati wa ujauzito?",
+    "q2": "Kuongezeka kwa uzito kiasi gani ni kawaida?",
+    "q3": "Ni mazoezi gani yanayofaa kwa wanawake wajawazito?"
+  },
+  "notifications": {
+    "title": "Arifa",
+    "markAllRead": "Weka Zote kama Umesoma",
+    "noNotifications": "Hakuna arifa kwa sasa"
+  }
+}

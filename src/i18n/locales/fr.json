@@ -1,0 +1,87 @@
+
+{
+  "app": {
+    "title": "MamaCare",
+    "welcome": "Bienvenue à MamaCare",
+    "description": "Votre compagnon de confiance pour la santé maternelle"
+  },
+  "nav": {
+    "home": "Accueil",
+    "profile": "Profil",
+    "appointments": "Rendez-vous",
+    "healthTips": "Conseils Santé",
+    "chat": "Chat avec Sage-femme",
+    "aiSupport": "Support IA",
+    "notifications": "Notifications",
+    "logout": "Déconnexion",
+    "language": "Langue"
+  },
+  "auth": {
+    "login": "Connexion",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "loginButton": "Se connecter",
+    "welcome": "Bon retour",
+    "subtitle": "Connectez-vous pour accéder à votre tableau de bord de santé maternelle"
+  },
+  "home": {
+    "features": "Fonctionnalités",
+    "profileCard": "Gérez votre profil et vos informations de santé",
+    "appointmentsCard": "Planifiez et gérez vos rendez-vous",
+    "tipsCard": "Obtenez des conseils d'experts en santé et nutrition",
+    "chatCard": "Connectez-vous avec des sages-femmes certifiées",
+    "aiCard": "Obtenez un support de grossesse alimenté par l'IA",
+    "notificationsCard": "Restez informé avec des rappels importants"
+  },
+  "profile": {
+    "title": "Mon Profil",
+    "name": "Nom Complet",
+    "email": "Adresse E-mail",
+    "phone": "Numéro de Téléphone",
+    "dueDate": "Date Prévue",
+    "healthStatus": "État de Santé",
+    "edit": "Modifier le Profil",
+    "save": "Sauvegarder les Modifications"
+  },
+  "appointments": {
+    "title": "Mes Rendez-vous",
+    "upcoming": "Rendez-vous à Venir",
+    "book": "Réserver un Nouveau Rendez-vous",
+    "date": "Date",
+    "time": "Heure",
+    "doctor": "Professionnel de Santé",
+    "type": "Type de Rendez-vous",
+    "bookButton": "Réserver un Rendez-vous",
+    "noAppointments": "Aucun rendez-vous à venir"
+  },
+  "tips": {
+    "title": "Conseils Santé",
+    "pregnancy": "Conseils de Grossesse",
+    "nutrition": "Conseils Nutritionnels",
+    "exercise": "Exercices Sécurisés",
+    "mental": "Santé Mentale"
+  },
+  "chat": {
+    "title": "Chat avec Sage-femme",
+    "online": "Sages-femmes En Ligne",
+    "placeholder": "Tapez votre message...",
+    "send": "Envoyer",
+    "connecting": "Connexion à une sage-femme disponible..."
+  },
+  "ai": {
+    "title": "Support IA Grossesse",
+    "subtitle": "Demandez-moi tout sur votre parcours de grossesse",
+    "placeholder": "Posez votre question sur la grossesse, la santé ou la nutrition...",
+    "send": "Demander à l'IA",
+    "thinking": "L'IA réfléchit...",
+    "sampleQuestions": "Questions Exemples:",
+    "q1": "Quels aliments dois-je éviter pendant la grossesse?",
+    "q2": "Combien de prise de poids est normale?",
+    "q3": "Quels exercices sont sûrs pour les femmes enceintes?"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Marquer Tout comme Lu",
+    "noNotifications": "Aucune notification pour le moment"
+  }
+}

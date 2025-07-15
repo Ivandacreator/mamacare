@@ -1,0 +1,87 @@
+
+{
+  "app": {
+    "title": "MamaCare",
+    "welcome": "Bienvenida a MamaCare",
+    "description": "Tu compañera de confianza para la salud materna"
+  },
+  "nav": {
+    "home": "Inicio",
+    "profile": "Perfil",
+    "appointments": "Citas",
+    "healthTips": "Consejos de Salud",
+    "chat": "Chat con Partera",
+    "aiSupport": "Soporte IA",
+    "notifications": "Notificaciones",
+    "logout": "Cerrar Sesión",
+    "language": "Idioma"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "loginButton": "Ingresar",
+    "welcome": "Bienvenida de Vuelta",
+    "subtitle": "Inicia sesión para acceder a tu panel de salud materna"
+  },
+  "home": {
+    "features": "Características",
+    "profileCard": "Gestiona tu perfil e información de salud",
+    "appointmentsCard": "Programa y gestiona tus citas",
+    "tipsCard": "Obtén consejos expertos de salud y nutrición",
+    "chatCard": "Conéctate con parteras certificadas",
+    "aiCard": "Obtén soporte de embarazo impulsado por IA",
+    "notificationsCard": "Mantente actualizada con recordatorios importantes"
+  },
+  "profile": {
+    "title": "Mi Perfil",
+    "name": "Nombre Completo",
+    "email": "Dirección de Correo",
+    "phone": "Número de Teléfono",
+    "dueDate": "Fecha de Parto",
+    "healthStatus": "Estado de Salud",
+    "edit": "Editar Perfil",
+    "save": "Guardar Cambios"
+  },
+  "appointments": {
+    "title": "Mis Citas",
+    "upcoming": "Próximas Citas",
+    "book": "Reservar Nueva Cita",
+    "date": "Fecha",
+    "time": "Hora",
+    "doctor": "Proveedor de Salud",
+    "type": "Tipo de Cita",
+    "bookButton": "Reservar Cita",
+    "noAppointments": "No hay citas próximas"
+  },
+  "tips": {
+    "title": "Consejos de Salud",
+    "pregnancy": "Consejos de Embarazo",
+    "nutrition": "Consejos Nutricionales",
+    "exercise": "Ejercicios Seguros",
+    "mental": "Salud Mental"
+  },
+  "chat": {
+    "title": "Chat con Partera",
+    "online": "Parteras En Línea",
+    "placeholder": "Escribe tu mensaje...",
+    "send": "Enviar",
+    "connecting": "Conectando con partera disponible..."
+  },
+  "ai": {
+    "title": "Soporte IA de Embarazo",
+    "subtitle": "Pregúntame cualquier cosa sobre tu viaje de embarazo",
+    "placeholder": "Haz tu pregunta sobre embarazo, salud o nutrición...",
+    "send": "Preguntar a IA",
+    "thinking": "IA está pensando...",
+    "sampleQuestions": "Preguntas de Ejemplo:",
+    "q1": "¿Qué alimentos debo evitar durante el embarazo?",
+    "q2": "¿Cuánto aumento de peso es normal?",
+    "q3": "¿Qué ejercicios son seguros para mujeres embarazadas?"
+  },
+  "notifications": {
+    "title": "Notificaciones",
+    "markAllRead": "Marcar Todas como Leídas",
+    "noNotifications": "No hay notificaciones en este momento"
+  }
+}

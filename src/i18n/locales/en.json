@@ -1,0 +1,87 @@
+
+{
+  "app": {
+    "title": "MamaCare",
+    "welcome": "Welcome to MamaCare",
+    "description": "Your trusted companion for maternal health"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Profile",
+    "appointments": "Appointments",
+    "healthTips": "Health Tips",
+    "chat": "Chat with Midwife",
+    "aiSupport": "AI Support",
+    "notifications": "Notifications",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Sign In",
+    "welcome": "Welcome Back",
+    "subtitle": "Sign in to access your maternal health dashboard"
+  },
+  "home": {
+    "features": "Features",
+    "profileCard": "Manage your profile and health information",
+    "appointmentsCard": "Schedule and manage your appointments",
+    "tipsCard": "Get expert health and nutrition tips",
+    "chatCard": "Connect with certified midwives",
+    "aiCard": "Get AI-powered pregnancy support",
+    "notificationsCard": "Stay updated with important reminders"
+  },
+  "profile": {
+    "title": "My Profile",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "dueDate": "Due Date",
+    "healthStatus": "Health Status",
+    "edit": "Edit Profile",
+    "save": "Save Changes"
+  },
+  "appointments": {
+    "title": "My Appointments",
+    "upcoming": "Upcoming Appointments",
+    "book": "Book New Appointment",
+    "date": "Date",
+    "time": "Time",
+    "doctor": "Healthcare Provider",
+    "type": "Appointment Type",
+    "bookButton": "Book Appointment",
+    "noAppointments": "No upcoming appointments"
+  },
+  "tips": {
+    "title": "Health Tips",
+    "pregnancy": "Pregnancy Tips",
+    "nutrition": "Nutrition Advice",
+    "exercise": "Safe Exercises",
+    "mental": "Mental Health"
+  },
+  "chat": {
+    "title": "Chat with Midwife",
+    "online": "Midwives Online",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "connecting": "Connecting to available midwife..."
+  },
+  "ai": {
+    "title": "AI Pregnancy Support",
+    "subtitle": "Ask me anything about your pregnancy journey",
+    "placeholder": "Ask your question about pregnancy, health, or nutrition...",
+    "send": "Ask AI",
+    "thinking": "AI is thinking...",
+    "sampleQuestions": "Sample Questions:",
+    "q1": "What foods should I avoid during pregnancy?",
+    "q2": "How much weight gain is normal?",
+    "q3": "What exercises are safe for pregnant women?"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllRead": "Mark All as Read",
+    "noNotifications": "No notifications at this time"
+  }
+}
